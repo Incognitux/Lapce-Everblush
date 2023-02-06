@@ -1,0 +1,7 @@
+name = "everblush-theme"
+display-name = "Everblush"
+description = "Everblush theme for Lapce"
+version = "0.1.0"
+author = "Incognitux"
+repository = "https://github.com/Incognitux/Lapce-Everblush"
+themes = ["everblush.toml"]
