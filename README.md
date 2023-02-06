@@ -1,2 +1,2 @@
 # Lapce-Everblush
-Everblush theme for Lapce
+Everblush theme for Lapce Editor
