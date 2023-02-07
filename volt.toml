@@ -1,8 +1,8 @@
-name = "everblush-theme"
+name = "everblush"
 display-name = "Everblush"
 description = "Everblush theme for Lapce"
 version = "0.1.0"
-author = "Incognitux"
-icon = "assets/logo.png"
+author = "incognitux"
 repository = "https://github.com/Incognitux/Lapce-Everblush"
-themes = ["everblush.toml"]
+icon = "assets/logo.png"
+color-themes = "everblush.toml"
