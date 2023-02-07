@@ -19,6 +19,7 @@
 # Installation
 - Add everblush.toml to ```$HOME/.local/share/lapce-stable/themes/```.
 
-### OR 
-- You can navigate to `Plugins >> Search Everblush`
+## OR 
+- You can navigate to Plugins in Lapce
+- Search everblush
 - And Install it.
