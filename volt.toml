@@ -5,4 +5,4 @@ version = "0.1.0"
 author = "incognitux"
 repository = "https://github.com/Incognitux/Lapce-Everblush"
 icon = "assets/logo.png"
-color-themes = "everblush.toml"
+color-themes = ["everblush.toml"]
